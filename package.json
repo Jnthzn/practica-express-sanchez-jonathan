@@ -1,0 +1,24 @@
+{
+  "name": "practica-express-sanchez-jonathan",
+  "version": "1.0.0",
+  "description": "\"# practica-express-sanchez-jonathan\"",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --wacth app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jnthzn/practica-express-sanchez-jonathan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Jnthzn/practica-express-sanchez-jonathan/issues"
+  },
+  "homepage": "https://github.com/Jnthzn/practica-express-sanchez-jonathan#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
