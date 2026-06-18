@@ -4,7 +4,7 @@
   "description": "\"# practica-express-sanchez-jonathan\"",
   "main": "app.js",
   "scripts": {
-    "dev": "node --wacth app.js"
+    "dev": "node --watch app.js"
   },
   "repository": {
     "type": "git",
